@@ -1,0 +1,4 @@
+Il barista, che è un gran bevitore, ti versa il liquore e attacca una conversazione.
+"Mi stai simpatico", dice, "ti darò un consiglio prezioso. Qualche mese fa è passato di qui un cacciatore di goblin. Se prendi per la caverna stai attento, perchè è piena di quei mostri. Ma mi disse che se vedi un totem con degli stracci viola e un teschio indica un cunicolo secondario dove si trovano dei tesori. Esplorali, perchè c'è da guadagnare." Felice di aver ottenuto questa informazione, esci dalla locanda.
+
+Torna alla cartella "Inizio" e scegli se andare alle pianure o nella caverna.

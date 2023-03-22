@@ -1,0 +1,3 @@
+Ti avvicini al tavolo del gruppo e inizi a pparlare con loro. Ti offrono da bere.
+
+Decidi se sbronzarti con loro (cartella "Sbronza") o regolarti(cartella "Sobrio").

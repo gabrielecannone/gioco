@@ -1,0 +1,3 @@
+Ti siedi al bancone e l'oste ti chiede cosa vuoi ordinare.
+
+Scegli se ordinare una birra, un liquore o un analcolico o se uscire.
